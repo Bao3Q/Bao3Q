@@ -1,2 +1,4 @@
-Hi 👋, I'm Gia Bảo
-![Nothing](https://media.tenor.com/4glrAdNmrLoAAAAM/angry.gif)
+# Hi 👋, I'm Gia Bảo
+
+<br/>
+![Nothing](https://media.tenor.com/cOHjIumJ-cMAAAAM/goodmorningstreaks-gms.gif)
