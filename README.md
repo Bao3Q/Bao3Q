@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=0&color=F70000&multiline=false&width=435&lines=Hi+👋,+I'm+Gia+Bảo" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=gradient&fontSize=40&text=Hi%20👋,%20I'm%20Gia%20Bảo&fontAlignY=40" alt="Title" />
 </h1>
 
 <img src="https://media.tenor.com/synaMy5G9VoAAAAM/appa-avatar.gif" width="1200" alt="Appa Avatar">
