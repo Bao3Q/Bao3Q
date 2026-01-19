@@ -1,4 +1,6 @@
-# Hi 👋, I'm Gia Bảo
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=0&color=F70000&multiline=false&width=435&lines=Hi+👋,+I'm+Gia+Bảo" alt="Typing SVG" />
+</h1>
 
 <img src="https://media.tenor.com/synaMy5G9VoAAAAM/appa-avatar.gif" width="1200" alt="Appa Avatar">
 
